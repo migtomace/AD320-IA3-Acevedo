@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+div {
+    width: available;
+    box-shadow: 2px 2px 4px #000000;
+    background: #8f8f8f;
+    margin: 1em 0;
+    padding: 1em;
+    font-size: 2em;
+    text-align: center;
+    height: 1em;
+}
+div#three {
+    overflow-y: scroll;
+}
